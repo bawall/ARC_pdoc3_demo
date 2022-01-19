@@ -11,7 +11,9 @@ def main():
     Using feature 1 to get sum of the two first given arguments
 
     :param argv: any number of actual arguments
-    :rtype argv: list of arguments, the first being the actual execute command
+
+    :type argv: list of arguments, the first being the actual execute command
+
     :return: None
 
     """
